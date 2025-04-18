@@ -1,0 +1,1 @@
+  ptr[i]=new city;
