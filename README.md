@@ -40,5 +40,5 @@ This collection includes a variety of solved programming questions written in **
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/c-and-cpp-pgm.git
+   git clone https://github.com/Mundan748/c-and-cpp-pgm.git
    cd c-and-cpp-pgm
